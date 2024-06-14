@@ -1,5 +1,5 @@
 # GitHub Copilot gains extensions as GitHub and FileZilla face malware exploits
-Name of the Channel(source): [The Hacker News](https://www.developer-tech.com/news/2024/may/28/github-copilot-gains-extensions-github-filezilla-face-malware-exploits/) (link to the source)
+Name of the Channel(source): [Developer Tech News](https://www.developer-tech.com/news/2024/may/28/github-copilot-gains-extensions-github-filezilla-face-malware-exploits/) (link to the source)
 ## Report
 This report discusses two significent devlopments in the tech world:
 - **GitHub's announcement of extending Copilot with third-party skills**
