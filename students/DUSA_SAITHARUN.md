@@ -4,7 +4,7 @@
 
 [_LINK_](https://ijrra.net/Vol5issue1/IJRRA-05-01-27.pdf)
 
-** Description : **
+**Description :**
 
 This study focuses on the effects of using React JS in web development to improve the user experience. React JS, created by Facebook, has become widely popular because of its component-based structure and virtual DOM rendering. The goal of this research is to examine different aspects of implementing React JS and how it affects the responsiveness, interactivity, and overall satisfaction of the user interface (UI).
 
