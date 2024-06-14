@@ -1,6 +1,7 @@
 # Microsoft delays controversial AI Recall feature on new Windows computers.
 
 **New Channel**:*AP News*
+
 REDMOND, Wash. (AP) — New laptops equipped with Microsoft Windows start shipping to customers next week without a flagship feature called Recall that drew concerns about privacy and cybersecurity.
 Microsoft CEO Satya Nadella touted the new Recall feature at a showcase event last month, describing it as a step toward artificial intelligence machines that “instantly see us, hear, reason about our intent and our surroundings.”
 Recall works by periodically taking snapshots of a computer screen to give Microsoft’s AI assistant Copilot a “photographic memory” of a person’s virtual activity, ostensibly to help someone remember what they did earlier.
