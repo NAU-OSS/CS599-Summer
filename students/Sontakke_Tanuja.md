@@ -1,4 +1,4 @@
-# Title: Driver Drowsiness Detection: Innovating Safety with Neural Networks and Fuzzy Logic
+# Title: Driver Drowsiness Detection- Innovating Safety with Neural Networks and Fuzzy Logic
 
 **IEEE paper: New method of driver drowsiness detection system based on Fuzzy Logic and Artificial Neural Networks**
 
